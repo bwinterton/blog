@@ -4,6 +4,11 @@ machine:
   post:
     - mkdir -p $HOME/$CIRCLE_PROJECT_REPONAME/bin
 
+checkout:
+  post:
+    - git submodule sync
+    - git submodule update --init
+
 dependencies:
   pre:
     - ./install-hugo-circle.sh
@@ -18,5 +23,4 @@ deployment:
   s3:
     branch: master
     commands:
-      - aws s3 rm s3://bwinterton-blog/* --recursive
-      - aws s3 cp public/* s3://bwinterton-blog/ --recursive
+      - aws s3 sync public/ s3://bwinterton-blog/ --delete

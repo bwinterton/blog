@@ -1,0 +1,43 @@
+baseurl = "https://blog.bwinterton.com/"
+languageCode = "en-us"
+title = "My Life in Code"
+theme = "hugo-future-imperfect"
+enableEmoji = true
+googleAnalytics = "UA-54128379-1"
+disqusShortname = "bwintertonblog"
+
+[params]
+  author = "Brayden Winterton"
+  navbarTitle = "My Life in Code"
+  socialAppearAtTop = true
+  includeReadingTime = true
+
+[params.intro]
+  header = "My Life in Code"
+  paragraph = "A blog about my life, code, adventures, projects, and really just about anything else that I find enjoyable or interesting."
+  about = "My name is Brayden Winterton. I am a software engineer who loves pushing the limits and learning new things. I enjoy working on all types of projects, but backend and low level stuff tends to be my favorite. This is my space to blog about my personal life as well as things that I learn and work on."
+
+[params.intro.pic]
+  src = "/img/profile.jpg"
+  imperfect = true
+  alt = "Brayden Winterton"
+  width = ""
+
+[[menu.main]]
+  name = "Blog"
+  url = "/post"
+  weight = 1
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 2
+
+[[menu.main]]
+  name = "About Me"
+  url = "/about"
+  weight = 3
+  
+[social]
+  github = "bwinterton"
+  twitter = "braydenw"

@@ -1,0 +1,6 @@
+[submodule "blog/themes/hugo-future-imperfect"]
+	path = blog/themes/hugo-future-imperfect
+	url = git@github.com:jpescador/hugo-future-imperfect.git
+[submodule "themes/hugo-future-imperfect"]
+	path = themes/hugo-future-imperfect
+	url = git@github.com:jpescador/hugo-future-imperfect.git

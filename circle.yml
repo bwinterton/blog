@@ -1,6 +1,6 @@
 machine:
   environment:
-    PATH: $PATH:$HOME/$CIRCLE_PROJECT_REPONAME
+    PATH: $PATH:$HOME/$CIRCLE_PROJECT_REPONAME/bin
   post:
     - mkdir -p $HOME/$CIRCLE_PROJECT_REPONAME/bin
 

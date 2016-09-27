@@ -1,0 +1,22 @@
+machine:
+  environment:
+    PATH: $PATH:$HOME/$CIRCLE_PROJECT_REPONAME
+  post:
+    - mkdir -p $HOME/$CIRCLE_PROJECT_REPONAME/bin
+
+dependencies:
+  pre:
+    - ./install-hugo-circle.sh
+  cache_directories:
+    - bin
+
+test:
+  override:
+    - hugo -v
+
+deployment:
+  s3:
+    branch: master
+    commands:
+      - aws s3 rm s3://bwinterton-blog/* --recursive
+      - aws s3 cp public/* s3://bwinterton-blog/ --recursive

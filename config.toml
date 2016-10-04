@@ -24,7 +24,7 @@ disqusShortname = "bwintertonblog"
   width = ""
 
 [[menu.main]]
-  name = "Blog"
+  name = "Posts"
   url = "/post"
   weight = 1
 

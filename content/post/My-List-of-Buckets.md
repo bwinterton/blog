@@ -16,66 +16,66 @@ I will also try to keep this list updated as I come up with new things to add to
 
 So without further ado, I present you with my official bucket list: 
 
-1. Write my own programming language
-* Put a love lock on a bridge in Paris with Kaylie
-* Contribute to the Linux kernel
-* Write my own operating system (both kernel and userspace)
-* Get my master's degree
-* Get my bachelor's degree
-* Run a successful open source project
-* Have a 365 day streak on Github
-* Visit England
-* Ride the eye
-* See the blarney stone (no, I have no intention of actually kissing it, that's disgusting)
-* Eat thai food in Thailand
-* Visit New Zealand
-* Visit Australia
-* Have a Tim-Tam slam in Australia
-* Own a Tesla
-* Start a charity with Kaylie
-* Visit all 7 continents
-* Eat sushi in Japan
-* Bike the "Walter Mitty" road in Iceland
-* See the Taj Mahal
-* Learn to make pasta in Italy
-* Visit Annecy with Kaylie
-* Kiss Kaylie on the Eiffel Tower
-* See the Leaning Tower of Pisa
-* See Michelangelo's David
-* Bike the highest paved road in North America (Mt Evans in Colorado)
-* Complete a 100mi bike race
-* Complete [Lotoja](http://www.lotojaclassic.com/)
-* Go to a show in the Royal Opera House
-* Attend a bull fight in Spain
-* Go to Banff National Park
-* Tour the White House
-* Visit the Smithsonian
-* Go to Harry Potter World in California
-* Go to Harry Potter World in England!
-* Get my pilot's license
-* Cross through the Panama Canal
-* Shoot photos with a Hasselblad 
-* Ride a train cross country
-* Visit all of the National Parks in the USA
-* Visit all of the National Parks in Utah
-* See Ground Zero in New York
-* Eat baked goods in Germany
-* Eat Indian food in India
-* Walk along the Great Wall in China
-* See the Tomb of the Unknown Soldier in DC
-* See the changing of the guard at said tomb
-* Speak at an international conference. 
-* Road trip to Alaska
-* Spend a night in an Igloo
-* Stay in an over-water bungalow
-* Visit Disney World
-* Meet Tim Cook
-* Stay in an underwater room
-* Own a 3D printer
-* Bike across France
-* Restore a piece of furniture
-* Ride the tube in London
-* Have a library
+1. [ ] Write my own programming language
+- [ ] Put a love lock on a bridge in Paris with Kaylie
+- [ ] Contribute to the Linux kernel
+- [ ] Write my own operating system (both kernel and userspace)
+- [ ] Get my master's degree
+- [ ] Get my bachelor's degree
+- [ ] Run a successful open source project
+- [ ] Have a 365 day streak on Github
+- [ ] Visit England
+- [ ] Ride the eye
+- [ ] See the blarney stone (no, I have no intention of actually kissing it, that's disgusting)
+- [ ] Eat thai food in Thailand
+- [ ] Visit New Zealand
+- [ ] Visit Australia
+- [ ] Have a Tim-Tam slam in Australia
+- [ ] Own a Tesla
+- [ ] Start a charity with Kaylie
+- [ ] Visit all 7 continents
+- [ ] Eat sushi in Japan
+- [ ] Bike the "Walter Mitty" road in Iceland
+- [ ] See the Taj Mahal
+- [ ] Learn to make pasta in Italy
+- [ ] Visit Annecy with Kaylie
+- [ ] Kiss Kaylie on the Eiffel Tower
+- [ ] See the Leaning Tower of Pisa
+- [ ] See Michelangelo's David
+- [ ] Bike the highest paved road in North America (Mt Evans in Colorado)
+- [ ] Complete a 100mi bike race
+- [ ] Complete [Lotoja](http://www.lotojaclassic.com/)
+- [ ] Go to a show in the Royal Opera House
+- [ ] Attend a bull fight in Spain
+- [ ] Go to Banff National Park
+- [ ] Tour the White House
+- [ ] Visit the Smithsonian
+- [ ] Go to Harry Potter World in California
+- [ ] Go to Harry Potter World in England!
+- [ ] Get my pilot's license
+- [ ] Cross through the Panama Canal
+- [ ] Shoot photos with a Hasselblad 
+- [ ] Ride a train cross country
+- [ ] Visit all of the National Parks in the USA
+- [ ] Visit all of the National Parks in Utah
+- [ ] See Ground Zero in New York
+- [ ] Eat baked goods in Germany
+- [ ] Eat Indian food in India
+- [ ] Walk along the Great Wall in China
+- [ ] See the Tomb of the Unknown Soldier in DC
+- [ ] See the changing of the guard at said tomb
+- [ ] Speak at an international conference. 
+- [ ] Road trip to Alaska
+- [ ] Spend a night in an Igloo
+- [ ] Stay in an over-water bungalow
+- [ ] Visit Disney World
+- [ ] Meet Tim Cook
+- [ ] Stay in an underwater room
+- [ ] Own a 3D printer
+- [ ] Bike across France
+- [ ] Restore a piece of furniture
+- [ ] Ride the tube in London
+- [ ] Have a library
 
 So there you have it. These are some of the things I want to do before kicking that metaphorical bucket. At the time of writing there were 60 things in this list. As I said before, I will go adding to this list and marking off things I have done. Hopefully this has given you a little more insight into who I am and what I want to do. 
 

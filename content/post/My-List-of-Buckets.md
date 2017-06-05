@@ -17,14 +17,14 @@ I will also try to keep this list updated as I come up with new things to add to
 So without further ado, I present you with my official bucket list: 
 
 1. [ ] Write my own programming language
-- [ ] Put a love lock on a bridge in Paris with Kaylie
+- [x] Put a love lock on a bridge in Paris with Kaylie
 - [ ] Contribute to the Linux kernel
 - [ ] Write my own operating system (both kernel and userspace)
 - [ ] Get my master's degree
 - [ ] Get my bachelor's degree
 - [ ] Run a successful open source project
 - [ ] Have a 365 day streak on Github
-- [ ] Visit England
+- [x] Visit England
 - [ ] Ride the eye
 - [ ] See the blarney stone (no, I have no intention of actually kissing it, that's disgusting)
 - [ ] Eat thai food in Thailand
@@ -39,7 +39,7 @@ So without further ado, I present you with my official bucket list:
 - [ ] See the Taj Mahal
 - [ ] Learn to make pasta in Italy
 - [ ] Visit Annecy with Kaylie
-- [ ] Kiss Kaylie on the Eiffel Tower
+- [x] Kiss Kaylie on the Eiffel Tower
 - [ ] See the Leaning Tower of Pisa
 - [ ] See Michelangelo's David
 - [ ] Bike the highest paved road in North America (Mt Evans in Colorado)
@@ -51,7 +51,7 @@ So without further ado, I present you with my official bucket list:
 - [ ] Tour the White House
 - [ ] Visit the Smithsonian
 - [ ] Go to Harry Potter World in California
-- [ ] Go to Harry Potter World in England!
+- [x] Go to Harry Potter World in England!
 - [ ] Get my pilot's license
 - [ ] Cross through the Panama Canal
 - [ ] Shoot photos with a Hasselblad 
@@ -71,10 +71,10 @@ So without further ado, I present you with my official bucket list:
 - [ ] Visit Disney World
 - [ ] Meet Tim Cook
 - [ ] Stay in an underwater room
-- [ ] Own a 3D printer
+- [x] Own a 3D printer
 - [ ] Bike across France
 - [ ] Restore a piece of furniture
-- [ ] Ride the tube in London
+- [x] Ride the tube in London
 - [ ] Have a library
 
 So there you have it. These are some of the things I want to do before kicking that metaphorical bucket. At the time of writing there were 60 things in this list. As I said before, I will go adding to this list and marking off things I have done. Hopefully this has given you a little more insight into who I am and what I want to do. 
